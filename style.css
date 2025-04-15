@@ -1,0 +1,23 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #0f0f0f;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+    color: #00ffcc;
+}
+p {
+    font-size: 1.5em;
+    color: #ccc;
+}
